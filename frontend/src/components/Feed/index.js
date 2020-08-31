@@ -1,6 +1,4 @@
 import React from "react";
-//import Posts from "../Posts";
-//import LikesList from "../LikesList";
 
 class Feed extends React.Component {
   constructor(props) {
