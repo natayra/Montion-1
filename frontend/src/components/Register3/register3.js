@@ -21,7 +21,6 @@ import {
   RightContainerLoginRegister,
   SignInButtonContainer,
   SignInOutButton,
-  SignInContainer,
   ButtonsGradient,
   ValidationInput,
   ValidationContainer,
