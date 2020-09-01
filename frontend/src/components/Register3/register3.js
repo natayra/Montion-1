@@ -19,7 +19,6 @@ import {
   ButtonInstagram,
   ButtonSocialContainer,
   RightContainerLoginRegister,
-  SignInButtonContainer,
   ButtonsGradient,
   ValidationInput,
   ValidationContainer,
