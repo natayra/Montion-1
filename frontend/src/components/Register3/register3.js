@@ -4,7 +4,6 @@ import logo from "../../assets/logo_white.png";
 import {
   H1,
   H2,
-  H3,
   P,
   LeftContainerLoginRegister,
   UpLContainerLoginRegister,
