@@ -20,7 +20,6 @@ import {
   ButtonSocialContainer,
   RightContainerLoginRegister,
   SignInButtonContainer,
-  SignInOutButton,
   ButtonsGradient,
   ValidationInput,
   ValidationContainer,
